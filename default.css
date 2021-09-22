@@ -28,3 +28,44 @@ h2 {
     color: maroon;
     text-decoration: underline;
 }
+
+p {
+    color: maroon;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+
+    margin-left: 20px;
+    margin: 23px;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color:purple;
+}
+
+a:hover {
+    color: rgb(224, 5, 253);
+}
+
+.header_bar {
+    float: left;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+.image {
+    padding: 10px;
+    clear: both;
+}
+
+.content {
+    overflow: hidden;
+}
+
+.paragraph {
+    text-indent: 25px;
+}
