@@ -75,3 +75,24 @@ a:hover {
     text-align: center;
 }
 
+h4 {
+    color: maroon;
+    text-align: center;
+}
+
+.resume_headers {
+    clear:both;
+    float: left;
+    width: 150px;
+}
+
+.resume_contents {
+    float: left;
+    overflow: hidden;
+}
+
+.long_content {
+    float: left;
+    margin: 20px;
+    width: 750px;
+}
