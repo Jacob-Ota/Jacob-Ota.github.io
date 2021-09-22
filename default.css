@@ -69,3 +69,9 @@ a:hover {
 .paragraph {
     text-indent: 25px;
 }
+
+.resume_title {
+    clear: both;
+    text-align: center;
+}
+
