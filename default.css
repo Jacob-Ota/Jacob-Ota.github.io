@@ -100,7 +100,7 @@ h4 {
 
 ul {
     color: maroon;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 10pt;
     float: left;
     overflow: hidden;
@@ -108,7 +108,7 @@ ul {
 
 li {
     color: maroon;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 10pt;
     margin: 8px;
     list-style-position: inside;
